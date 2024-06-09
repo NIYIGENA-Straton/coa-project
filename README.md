@@ -37,6 +37,9 @@ Given a string, transform it based on the following rules:
 •	If the length of the string is divisible by both 3 and 5 (i.e., divisible by 15), perform both operations in the order specified above.
 
 Example
+
 •	Input: "Hamburger"
+
 •	Output: "regrubmaH"
+
 •	Explanation: The length of the string is 9, which is divisible by 3 but not by 5 or 15. Therefore, the string is reversed, resulting in "regrubmaH".
